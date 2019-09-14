@@ -1,2 +1,2 @@
 # codeChef-MARSWA
-Solution to code chef Walk on Mars problem
+Solution to code chef Walk on Mars (MARSWA) problem in python3 .
